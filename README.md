@@ -1,17 +1,20 @@
 
-# 🎮 Connect 4 AI Game
+# Connect 4 AI Game
 
 This repository contains an implementation of the classic Connect 4 game with an AI opponent powered by the Minimax algorithm with Alpha-Beta pruning.
 
+**Course**: Artificial Intelligence – Autumn 2024  
+**University of Tehran | School of Electrical & Computer Engineering**
+
 ---
 
-## 📁 Project Contents
+## Project Contents
 
 - **Game.py** - The main game file containing the implementation of the Connect 4 game, AI logic, and game loop.
 
 ---
 
-## 🕹️ Game Features
+## Game Features
 
 - **Game Mechanics:**
   - Two-player game: Human vs. AI.
@@ -26,7 +29,7 @@ This repository contains an implementation of the classic Connect 4 game with an
 
 ---
 
-## 🎯 How to Play
+## How to Play
 
 1. **Run the Game:** Execute `Game.py` using Python 3.
    ```bash
@@ -44,7 +47,7 @@ This repository contains an implementation of the classic Connect 4 game with an
 
 ---
 
-## 🧠 AI Logic Overview
+## AI Logic Overview
 
 - **Minimax with Alpha-Beta Pruning:**
   - Evaluates potential moves up to a given depth.
@@ -57,23 +60,4 @@ This repository contains an implementation of the classic Connect 4 game with an
 
 - **Difficulty Adjustment:**
   - Search depth can be configured in the game settings.
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/YourRepo.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd YourRepo
-   ```
-
-3. Run the game:
-   ```bash
-   python3 Game.py
-   ```
 
